@@ -2,7 +2,7 @@ FE=8.7
 GB=6.2
 CS=9.5
 CP=8.5
-print("Foundation English : คะแนนที่ได้",FE)
-print("General Business : คะแนนที่ได้",GB)
-print("Introduction to Computer Systems : คะแนนที่ได้",CS)
-print("Computer Programming : คะแนนที่ได้",CP)
+print("Foundation English : คะแนนที่ได้",FE,"/10")
+print("General Business : คะแนนที่ได้",GB,"/10")
+print("Introduction to Computer Systems : คะแนนที่ได้",CS,"/10")
+print("Computer Programming : คะแนนที่ได้",CP,"/10")
