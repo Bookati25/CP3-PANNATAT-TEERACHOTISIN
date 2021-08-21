@@ -1,0 +1,5 @@
+a=int(input("Input :"))
+b=a
+for x in range(a):
+	print((b-1)*" ",(((x*2)+1))*"*")
+	b-=1
